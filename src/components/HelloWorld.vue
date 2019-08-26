@@ -80,6 +80,9 @@
           </a>
         </v-layout>
       </v-flex>
+      <v-row justify="center">
+        <v-date-picker v-model="picker"></v-date-picker>
+      </v-row>
     </v-layout>
   </v-container>
 </template>
