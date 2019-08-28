@@ -30,8 +30,7 @@ export default {
     HelloWorld
   },
   data: () => ({
-    //
+
   })
 }
-//adding comment
 </script>
